@@ -1,11 +1,23 @@
 html, body {
-    background-color:darkslategray;
+    font-family: "Courier New", monospace;
+    background-color:rgb(23, 21, 21);
 }
 
 h1 {
     color:whitesmoke;
+    font-weight:200;
 }
 
 p {
     color:whitesmoke;
+}
+
+hr {
+    width:30%;
+    border-color:grey;
+}
+
+#main_page {
+    margin-left:5%;
+    margin-top:5%;
 }
