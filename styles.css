@@ -4,6 +4,7 @@ html, body {
 }
 
 h1 {
+    display:inline-block;
     color:whitesmoke;
     font-weight:200;
 }
@@ -12,9 +13,10 @@ p {
     color:whitesmoke;
 }
 
-hr {
-    width:30%;
+.header_line {
+    width:138%;
     border-color:grey;
+    margin-left:-8%;
 }
 
 #main_page {
