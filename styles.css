@@ -13,13 +13,29 @@ p {
     color:whitesmoke;
 }
 
+td {
+    padding-right:20px;
+}
+
 .header_line {
     width:138%;
     border-color:grey;
     margin-left:-8%;
 }
 
+.header_image {
+    height:40px;
+}
+
 #main_page {
     margin-left:5%;
     margin-top:5%;
+}
+
+#header {
+    width:30%;
+}
+
+#main_body {
+    padding:2%;
 }
